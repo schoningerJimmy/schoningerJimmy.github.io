@@ -7,6 +7,12 @@ html {
 	font-family: 'Roboto', sans-serif;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+      
+}
+
 @media (min-width: 576px) {
 	html {
 		font-size: 14px;
@@ -40,7 +46,7 @@ html {
 main {
 	display: flex;
 	flex-direction: column;
-	min-height: 100vh;
+    min-height: 100vh;
 	justify-content: center;
 	text-align: center;
 }
@@ -48,13 +54,15 @@ main {
 main > .intro {
 	font-family: 'Bree Serif', serif;
 	font-size: 3.75em;
-	font-weight: 600;
+    font-weight: 600;
+    color: white;
 }
 
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
-	font-weight: 100;
+    font-weight: 100;
+    color: white;
 }
 
 .icons-social i {
@@ -62,16 +70,11 @@ main > .tagline {
 }
 
 main {
-	background: #303F9F;
-	color: #FAFAFA;
+    background-color: #303F9F;
+    background-size: cover;
 }
 
 
 .icons-social a {
 	color: #FAFAFA;
 }
-
-.icons-social a svg path{
-	fill: #FAFAFA;
-}
-
