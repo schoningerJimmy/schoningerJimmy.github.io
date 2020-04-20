@@ -1,12 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Welcome to my landing Page
 
-## Available Scripts
+This project was created using visual code and HTML/css in order to let the company my development page with all the SNS link.
 
-In the project directory, you can run:
+## Repository
+
+there is css repository which contains the css style.
 
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can learn more about me and my experiences by clicking on my website in the landing page.
